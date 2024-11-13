@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    overflow-x: hidden;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./Wallpapers-pexels-photo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(85, 84, 84);
+    color: white;
+    
+    background-blend-mode: overlay;
+    
+}
+
+.w{
+    margin: 15px;
+    width: 34%;
+}
+.ws{
+    margin: 10rem 26rem;
+    width: 34%;
+}
+
+.ws h2{
+    margin: 12px 0;
+    font-size: 4rem;
+}
+.ws p{
+    font-size: 1rem;
+    margin-top: 4rem;
+    padding-inline: 12px;
+}
+
+   
